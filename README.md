@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia. Aqui você enc
 
 ## 🚀 Sobre Mim
 
-- 🎓 **Formação**: Análise e desenvolvimento de sistemas - Universidade Positivo
+- 🎓 **Formação**: Análise e desenvolvimento de sistemas - Universidade Positivo / Produção Multimídia - Faculdades OPET
 - 💼 **Atualmente trabalhando como**: Analista de integração JR
 - 💡 **Interesses**: Desenvolvimento Web, SharePoint, Full Stack, Ciência de Dados ...
 - 🌱 **Atualmente aprendendo**: PHP, Python e SharePoint (Power Automate, REST, SPFx e JavaScript)
@@ -30,11 +30,3 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia. Aqui você enc
   ![Power Automate](https://img.shields.io/badge/-Power%20Automate-0066CC?style=flat&logo=power-automate&logoColor=white) 
   ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6F61?style=flat&logo=rest&logoColor=white) 
   ![SharePoint](https://img.shields.io/badge/-SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
-
-
----
-
-## 📊 GitHub Stats
-
-![Diego Gagliardi](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
-![Top linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=radical)
