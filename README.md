@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia. Aqui você enc
 ## 🚀 Sobre Mim
 
 - 🎓 **Formação**: Análise e desenvolvimento de sistemas - Universidade Positivo / Produção Multimídia - Faculdades OPET
-- 💼 **Atualmente trabalhando como**: Analista de integração JR
+- 💼 **Atualmente trabalhando como**: Analista de onboarding
 - 💡 **Interesses**: Desenvolvimento Web, SharePoint, Full Stack, Ciência de Dados ...
 - 🌱 **Atualmente aprendendo**: PHP, Python e SharePoint (Power Automate, REST, SPFx e JavaScript)
 - 📫 **Como entrar em contato**:
